@@ -1,0 +1,14 @@
+layout_spectrum: 0.4544870536774397
+typography_spectrum: 0.3445067978464067
+color:
+  brandStrength: 0.41821688157506287
+  lightness: 0.4731996520422399
+  saturation: 0.7363101828377694
+  rhythmicContrast: 0.5760355819948018
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+name: peulima
