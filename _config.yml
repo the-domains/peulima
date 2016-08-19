@@ -1,4 +1,3 @@
-layout_spectrum: 0.4544870536774397
 typography_spectrum: 0.3445067978464067
 color:
   brandStrength: 0.41821688157506287
@@ -11,4 +10,6 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.4544870536774397
 name: peulima
+title: film director
