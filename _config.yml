@@ -11,6 +11,11 @@ color:
     - '#3D588F'
     - '#C7CAD1'
 layout_spectrum: 0.4544870536774397
+author:
+  name: peu lima
+  email: peu.lima@me.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/89b23f88-a4d1-4897-9787-1f22d199b695.png
 name: peulima
 title: film director
 description: directing motion
