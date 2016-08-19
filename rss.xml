@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[film director]]></title>
+        <description><![CDATA[film director]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 19:49:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[reel_2016]]></title>
+            <description><![CDATA[<article><h1>reel_2016</h1><p>reel</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a5375d026738f283934447494eb8b98e/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F568246327_960x540.jpg"></article>]]></description>
+            <link>https://vimeo.com/164585108</link>
+            <guid isPermaLink="false">d7e05f91-8e50-4e29-914e-ee5e6157d3bf</guid>
+            <pubDate>Fri, 19 Aug 2016 19:49:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
